@@ -1,0 +1,13 @@
+{
+  "name": "jengit",
+  "version": "1.0.0",
+  "description": "GIT proxy used to trigger Jenkins jobs.",
+  "main": "index.js",
+  "scripts": {
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "githubhook": "^1.1.3"
+  }
+}
